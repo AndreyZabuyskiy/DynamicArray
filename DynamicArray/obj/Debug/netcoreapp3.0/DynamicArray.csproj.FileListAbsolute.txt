@@ -1,0 +1,11 @@
+D:\Программирование\C#\Консоль\Задание №3\DynamicArray\DynamicArray\bin\Debug\netcoreapp3.0\DynamicArray.exe
+D:\Программирование\C#\Консоль\Задание №3\DynamicArray\DynamicArray\bin\Debug\netcoreapp3.0\DynamicArray.deps.json
+D:\Программирование\C#\Консоль\Задание №3\DynamicArray\DynamicArray\bin\Debug\netcoreapp3.0\DynamicArray.runtimeconfig.json
+D:\Программирование\C#\Консоль\Задание №3\DynamicArray\DynamicArray\bin\Debug\netcoreapp3.0\DynamicArray.runtimeconfig.dev.json
+D:\Программирование\C#\Консоль\Задание №3\DynamicArray\DynamicArray\bin\Debug\netcoreapp3.0\DynamicArray.dll
+D:\Программирование\C#\Консоль\Задание №3\DynamicArray\DynamicArray\bin\Debug\netcoreapp3.0\DynamicArray.pdb
+D:\Программирование\C#\Консоль\Задание №3\DynamicArray\DynamicArray\obj\Debug\netcoreapp3.0\DynamicArray.csprojAssemblyReference.cache
+D:\Программирование\C#\Консоль\Задание №3\DynamicArray\DynamicArray\obj\Debug\netcoreapp3.0\DynamicArray.AssemblyInfoInputs.cache
+D:\Программирование\C#\Консоль\Задание №3\DynamicArray\DynamicArray\obj\Debug\netcoreapp3.0\DynamicArray.AssemblyInfo.cs
+D:\Программирование\C#\Консоль\Задание №3\DynamicArray\DynamicArray\obj\Debug\netcoreapp3.0\DynamicArray.dll
+D:\Программирование\C#\Консоль\Задание №3\DynamicArray\DynamicArray\obj\Debug\netcoreapp3.0\DynamicArray.pdb
